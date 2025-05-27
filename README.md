@@ -30,7 +30,7 @@
 ## About The Project
 <div align="center">
 
-![Demo Video][demo-video]
+<img src="public/images/weather-app-demo.gif" alt="Demo Video" width="600" />
 
 </div>
 
