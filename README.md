@@ -30,7 +30,7 @@
 ## About The Project
 <div align="center">
 
-<img src="assets/weather-app-demo-gif" alt="Pomodoro App Demo" width="600" />
+<img src="public/images/weather-app-demo-gif" alt="Weather App Demo" width="600" />
 
 </div>
 
