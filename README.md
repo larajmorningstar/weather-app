@@ -30,9 +30,9 @@
 ## About The Project
 <div align="center">
 
-<img src="public/images/weather-app.png" alt="Weather App Photo" width="300" />
+<img src="public/images/weather-app.png" alt="Weather App Photo" width="350" />
 
-<img src="public/images/weather-app-demo.gif" alt="Demo Video" width="600" />
+<img src="public/images/weather-app-demo.gif" alt="Demo Video" width="430" />
 
 </div>
 
@@ -95,7 +95,3 @@ If city is invalid, an error message will appear
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[screenshot]: public/images/weather-app.png
-[demo-video]: public/images/weather-app-demo.gif
