@@ -10,7 +10,7 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: #c3e3f3;
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
@@ -73,7 +73,7 @@ body{
     text-align: left;
 }
 .col img{
-    width: 40px;
+    width: 70px;
     margin-right: 10px;
 }
 .humdity, .wind{
