@@ -30,7 +30,10 @@
 ## About The Project
 <div align="center">
 
-<img src="assets/pomodoro-app-demo.gif" alt="Pomodoro App Demo" width="600" />
+<img src="public/images/weather-app-demo-gif" alt="Weather App Demo" width="600" />
+![Screenshot][screenshot]
+
+![Demo Video][demo-video]
 
 </div>
 
@@ -95,5 +98,5 @@ If city is invalid, an error message will appear
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[screenshot]: public/images//weather-app.png
-[demo-video]: public/images//weather-app-demo.gif
+[screenshot]: public/images/weather-app.png
+[demo-video]: public/images/weather-app-demo.gif
