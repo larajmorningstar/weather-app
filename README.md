@@ -30,9 +30,6 @@
 ## About The Project
 <div align="center">
 
-<img src="public/images/weather-app-demo-gif" alt="Weather App Demo" width="600" />
-![Screenshot][screenshot]
-
 ![Demo Video][demo-video]
 
 </div>
